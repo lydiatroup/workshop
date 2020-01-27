@@ -2,7 +2,7 @@
 
 Lydia Troup
 
-## Response to Reading
+## Response to Readings
 [Blumenstock Response](https://github.com/lydiatroup/workshop/blob/master/blumenstock.md) (Jan. 27)
 
 ## Workshop
