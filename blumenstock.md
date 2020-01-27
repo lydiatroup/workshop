@@ -1,8 +1,9 @@
 # Response to Blumenstock
-Lydia Troup
-January 27
 
 # Don't Forget People in the use of big data for development Nature: Sept. 2018
+
+Lydia Troup
+January 27
 
 Blumenstock believes "designing data-enabled applications that work in the real world will require a slower approach that pays much more attention to the people behind the numbers," meaning effective data science must work slowly to ensure people are protected.
 This claim is supported by the potential applications of existing data science and algorithms. Algorithms commonly used for big tech companies could be repurposed to help those in need; instead of matching ads to the consumer, they could match resorces to those in need.
