@@ -1,4 +1,6 @@
-# [Response to Perkel](https://www.nature.com/magazine-assets/d41586-018-05331-6/d41586-018-05331-6.pdf) 
+# Response to Perkel 
+
+# Map-making on a budget
 
 Lydia Troup
 1/28
