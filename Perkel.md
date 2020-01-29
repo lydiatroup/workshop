@@ -22,4 +22,4 @@ coding > gis
  can use most up to date algorithms
  foster reproducability (can repeat runs specifying what version of code to use)
  
-
+open source vs proprietary (pay for license)
