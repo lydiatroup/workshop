@@ -26,19 +26,19 @@ areal-weighing approach
 anciallary spatial data 
     - combines census data with urban extents mapped from sattalites
     
-    world pop uses random forest model. combines census data and open access data sets from remotely senses and geospatial datasets, then uses random forests model to make a gridded prediction of population density. 
+   world pop uses random forest model. combines census data and open access data sets from remotely senses and geospatial datasets, then uses random forests model to make a gridded prediction of population density. 
     
-    4 base standardized 100 m tiled datasets and 30 arcsecond global mosaic derivates (1km datasets)
+   4 base standardized 100 m tiled datasets and 30 arcsecond global mosaic derivates (1km datasets)
     
-    - base dataset creation = process raster topography data with vector country boundary data via gis
-        4 main 100m resolution datasets (topography, standardised, gridded, clipped to country coastal boundaries)
+  base dataset creation = process raster topography data with vector country boundary data via gis
+       4 main 100m resolution datasets (topography, standardised, gridded, clipped to country coastal boundaries)
         
-        topography data: Vieewfinder panoramas dataset (US NASA info + SRTM)
+  topography data: Vieewfinder panoramas dataset (US NASA info + SRTM)
         country boundary data: GADM (not geoboundaries rip) (new beta version uses new country boundaries based on CIESIN instead of GADM)
         GDAL > arc for processing large raster datasets
         also uses qgis for open street map data
         
-        this is so cool i love gis tis fun
+   this is so interesting to read i love gis tis fun
         
-        there are some issues still because of inconsistencies in the data used but not too bad
+   there are some issues still because of inconsistencies in the data used but not too bad
         
