@@ -18,7 +18,7 @@ This was accomplished using arcgis and qgis software to join spatial data to att
 
 
 
-# notes
+# notes from reading
 areal-weighing approach
     - disaggregate population from census units into grid cells through the simple assumption that the population of a grid cell is an exclusive function of the land area within that pixel
     - precision and accuracy varies based on size on input unit
@@ -33,12 +33,10 @@ anciallary spatial data
   base dataset creation = process raster topography data with vector country boundary data via gis
        4 main 100m resolution datasets (topography, standardised, gridded, clipped to country coastal boundaries)
         
-  topography data: Vieewfinder panoramas dataset (US NASA info + SRTM)
+  topography data: Viewfinder panoramas dataset (US NASA info + SRTM)
         country boundary data: GADM (not geoboundaries rip) (new beta version uses new country boundaries based on CIESIN instead of GADM)
         GDAL > arc for processing large raster datasets
         also uses qgis for open street map data
-        
-   this is so interesting to read i love gis tis fun
         
    there are some issues still because of inconsistencies in the data used but not too bad
         
