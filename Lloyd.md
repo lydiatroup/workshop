@@ -26,7 +26,7 @@ areal-weighing approach
 anciallary spatial data 
     - combines census data with urban extents mapped from sattalites
     
-    world pop -> random forest model. combines census data and open access data sets from remotely senses and geospatial datasets, then uses random forests model to make a gridded prediction of population density. 
+    world pop uses random forest model. combines census data and open access data sets from remotely senses and geospatial datasets, then uses random forests model to make a gridded prediction of population density. 
     
     4 base standardized 100 m tiled datasets and 30 arcsecond global mosaic derivates (1km datasets)
     
