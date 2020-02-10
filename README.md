@@ -5,7 +5,7 @@ Lydia Troup
 ## Response to Readings
 [Blumenstock Response](https://github.com/lydiatroup/workshop/blob/master/blumenstock.md) (Jan. 27)
 
-[Response to Perkel](https://github.com/lydiatroup/workshop/blob/master/Perkel.md) (Jan 29)
+[Response to Lloyd](https://github.com/lydiatroup/workshop/blob/master/Lloyd.md) (Jan 29)
 
 ## Workshop
 
