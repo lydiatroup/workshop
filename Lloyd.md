@@ -1,10 +1,10 @@
 
 ## HIGH RESOLUTION GLOBAL GRIDDED DATA FOR USE IN POPULATION STUDIES
 
-# definitions
+# Definitions and Response
 scale is the area the dataset covers
 disaggregation is the breaking down of data into smaller categories, in this case into administrative boundaries
-adminsrative areas are the ways a country is broken up into smaller municipalities with different levels of control / authority
+administrative areas are the ways a country is broken up into smaller municipalities with different levels of control / authority
 grid cells / rasters
 uniform distribution / proportional allocation: uses the assumption that the population of a grid cell is an exclusive function of land area in that grid cell
 
