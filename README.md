@@ -14,4 +14,3 @@ Lydia Troup
 
 ## Projects
 1. [Project 1: Administrative Units, Population, and Description](https://lydiatroup.github.io/workshop/Project1)
-2. Extracting Populations from a Raster and Aggregating to each Unit
