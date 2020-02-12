@@ -2,7 +2,7 @@
 
 ## Administrative Subdivisions of Belize
 
-Belize has two administrative levels, ADM0 and ADM1. ADM0 is the countrys's boarder, while ADM1 breaks up the country into city and town councils.
+Belize has two administrative levels, ADM0 and ADM1. ADM0 is the countrys's border, while ADM1 breaks up the country into city and town councils.
 
 ![belize](BLZ_3.png)
 
