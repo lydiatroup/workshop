@@ -1,4 +1,4 @@
-#Wardrop Response
+# Wardrop Response
 
 The top-down method mentioned is the article is when researchers take a spatially large continuous dataset and disagregate it into smaller sections
 based on the functional relationship between the spatial location and the data set. An example of this is Gridded Popultaion of the World.
