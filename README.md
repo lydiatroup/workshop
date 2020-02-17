@@ -7,6 +7,8 @@ Lydia Troup
 
 [Response to Lloyd](https://github.com/lydiatroup/workshop/blob/master/Lloyd.md) (Feb. 10)
 
+[Response to Wardrop](https://lydiatroup.github.io/workshop/Wardrop.md) (Feb. 17)
+
 ## Workshop
 
 1. [Line Plot](https://github.com/lydiatroup/workshop/blob/master/plot2.png)
