@@ -3,11 +3,11 @@
 Lydia Troup
 
 ## Response to Readings
-[Blumenstock Response](https://github.com/lydiatroup/workshop/blob/master/blumenstock.md) (Jan. 27)
+[Blumenstock Response](https://lydiatroup.github.io/workshop/blumenstock) (Jan. 27)
 
-[Response to Lloyd](https://github.com/lydiatroup/workshop/blob/master/Lloyd.md) (Feb. 10)
+[Response to Lloyd](https://lydiatroup.github.io/workshop/Lloyd) (Feb. 10)
 
-[Response to Wardrop](https://lydiatroup.github.io/workshop/Wardrop.md) (Feb. 17)
+[Response to Wardrop](https://lydiatroup.github.io/workshop/Wardrop) (Feb. 17)
 
 ## Workshop
 
