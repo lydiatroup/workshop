@@ -12,4 +12,8 @@ Here is the stretch goal map I had made for Belarus
 
 ![belarus stretch](BLR_stretch.png)
 
+## Populations of Belize's ADM1s
 
+Belize has six districts in the first administrative level. Below is a map illustrating the population variation across these districts.
+
+![Belize Populations](blz_pop_11.png)
