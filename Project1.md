@@ -19,3 +19,9 @@ Belize has six districts in the first administrative level. Below is a map illus
 ![Belize Populations](blz_pop19_11.png)
 
 The district of Belize has the highest population and contains the country's capital, Belize city.
+
+## Belize 2019 Population and Density
+
+The population density of the district of Belize is the highest, as it contains the country's capital Belize city. Toledo has the lowest population density and is mostly uninhabitable places; rainforests and caves.
+
+![Belize popultion and graph](belize_both.png)
