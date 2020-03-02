@@ -1,12 +1,7 @@
 ## Response to Stevens
 3/2/2020
 
-1) The estiamation technique used in this article utilizes the random forests model. This model encorporates remote sensing and geospatial
-data from multiple scales and combines it with census data to estimate the population density for each grid in a given area. The
-random forest model utilizes machine learning to create increasingly accurate models. In the article Random Forest was used in R. First,
-covariates are identified and then used to create a forest of trees within a country, each tree representing the log population density
-for a given pixel. It was found the most accurate model was found by taking the mean of all trees in a forest and undoing the log to
-find an estimated population density.
+1) The estimation technique used in this article utilizes the random forests model. This model encorporates remote sensing and geospatial data from multiple scales and combines it with census data to estimate the population density for each grid in a given area. The random forest model utilizes machine learning to create increasingly accurate models. In the article Random Forest was used in R. First, covariates are identified and then used to create a forest of trees within a country, each tree representing the log population density for a given pixel. It was found the most accurate model was found by taking the mean of all trees in a forest and undoing the log to find an estimated population density.
 
 2) The random forest model discussed is a machine learning algorithm. This means the model "improves upon bagging," meaning it becomes
 more and more accurate each time it is run. Overall, the random forest model is similarly accurate to classical regression statistical
