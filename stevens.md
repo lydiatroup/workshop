@@ -1,4 +1,4 @@
-##Response to Stevens
+## Response to Stevens
 3/2/2020
 
 1) The estiamation technique used in this article utilizes the random forests model. This model encorporates remote sensing and geospatial
