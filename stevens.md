@@ -13,9 +13,8 @@ more and more accurate each time it is run. Overall, the random forest model is 
 models, but has the advantage of returning fewer values making it easier to interpret. The article states the random forest model
 performs better than other map modeling methods for population density.
 
-3) Covariates are information about the population, such as the country being measured, which may impact the final outcome. They're similar
-to confounding variables in science. Distance based covariates are mentioned throughout the article, which includes things like police stations. There likely would be a higher popultion around a police station than in areas without one, the same goes for hospitals or government buildings.
+3) Covariates are information about the population, such as the country being measured, which may impact the final outcome. They're similar to confounding variables in science. Distance based covariates are mentioned throughout the article, which includes things like police stations. There likely would be a higher popultion around a police station than in areas without one, the same goes for hospitals or government buildings.
 
 4) It is imporant to have a highly accurate description of where all people live in the world, especially in LMICs. Traditional census and population counting techniques are very hard to make accurate in LMICs, partly because it is harder to reach people, and partly because it is harder to estimate where people are. Population estimation methods, such as random forests, can help to solve this problem by accurately modeling population density. Additionally, it is important to have a data set modeling population for the enitre population at one data scale. If the population model utilized different data scales in different countries, it would be harder to compare them to eachother, however when it is all produced on a country or continental scale, it is easier to make accurate comparisons.
 
-5) In order to smartly distribute aid for human development, one must know where people in LMIC are concentrated, so they can target the corrrect groups. 
+5) In order to smartly allocate aid for human development, one must know where people in LMIC are concentrated, so they can target the corrrect groups. Inaccurate population models often exclude those that need aid the most.
