@@ -9,6 +9,8 @@ Lydia Troup
 
 [Response to Wardrop](https://lydiatroup.github.io/workshop/Wardrop) (Feb. 17)
 
+[Response to Stevens](https://lydia.troup.github.io/workshop/Stevens) (Mar. 02)
+
 ## Workshop
 
 1. [Line Plot](https://github.com/lydiatroup/workshop/blob/master/plot2.png)
