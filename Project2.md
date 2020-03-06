@@ -5,6 +5,7 @@ Relationship between population and ntl
 
 Probability density model of population
 ![yuc_density](yucatan_density.png)
+probability density is essentially the percent of the total at a level. In otherwords, it shows the proportion for the ADMs have a population bewteen two values to the total number of ADMs
 
 Probability density model of log population
 ![yuc_log_density](yucatan_density_log.png)
