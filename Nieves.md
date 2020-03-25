@@ -1,5 +1,11 @@
 ## Response to Nieves
 
+Nieves et al. use the random forests model to predict population glovally. The Random Forest works by creating a number of decision trees to predict a certain variable. The decision tree is then applied to the data and the accuracy of it is measured. Then the weaker, less accurate trees are combined and improved, to create stronger, more accurate trees. In this paper, the RF model was used to model population density in low and low-middle income countries, and then applied to the census population units which were then redistributed using dasymetric modeling to estimate population counts.
+
+  Dasymetric modeling provides important insights about the relationship between population and covariates. Daysymetric population allocation works to redistribute census population amounts into regions based on the predicted population densities found using the Random Forests model.
+  
+  This study found that globaly, covariates related to urban areas and topographic features were consistently the most important when comparing where people live. Additionally, there were some variations across regions. For example in central america non-residential land use covariates were found to be more important than the rivers/water/waterbodies covariates.
+
 
 notes from Reading:
 population increases in less developed countries  -> high rates internal/international migration. changes in spatial dist of pop = need more accurate high resolution spatial population maps for public health, policy, sustainability
