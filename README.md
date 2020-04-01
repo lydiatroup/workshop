@@ -13,6 +13,8 @@ Lydia Troup
 
 [Response to Nieves](https://lydiatroup.github.io/workshop/Nieves) (Mar. 24)
 
+[Response to Strano](https://lydiatroup.github.io/workshop/Strano) (Apr. 01)
+
 ## Workshop
 
 1. [Line Plot](https://github.com/lydiatroup/workshop/blob/master/plot2.png)
