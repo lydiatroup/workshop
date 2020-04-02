@@ -30,7 +30,7 @@ residuals for model using all variables
 R-squared:  0.9833
 
 # Difference in Population: Yucatan
-![3-D_Yucatan](Screenshot(73).png)
+![3-D_Yucatan](Screenshot_yuc.png)
 This plot shows the difference in predicted population and actual population for the Yucatan district of Mexico.
 
 # Difference in Population: Merida
@@ -42,7 +42,7 @@ This plot shows the difference between the population predicted by the model and
 This plot shows the population predicted my the model in Merida county in Yucatan, Mexico
 
 # Predicted Population: Merida
-![3-D_Merida](Screenshot(74).png)
+![3-D_Merida](Screenshot_2.png)
 This plot is a 3-D representation of the same thing, the population predicted by the model. Both of these plots are for the city Merida, which is the most populous city in Yucatan, Mexico.
 
 # Predicted Population: Merida
