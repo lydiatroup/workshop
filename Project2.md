@@ -39,7 +39,7 @@ This plot shows the difference between the population predicted by the model and
 
 # Predicted Population: Merida
 ![Merida_pop](merida_pop.png)
-This plot shows the population predicted my the model in Merida county in Yucatan, Mexico
+This plot shows the population predicted my the model in Merida county in Yucatan, Mexico. Merida county is the most populated county in Yucatan, and contains the city of Merida.
 
 # Predicted Population: Merida
 ![3-D_Merida](Screenshot_2.png)
@@ -53,5 +53,5 @@ This map shows the differnce between the population predicted by the model and t
 ![Merida_Dif_closer](Rplot02.png) 
 This is a closeup of the previous map, zoomed into the more populated area. You can see the model underpredicted the population in most areas, which makes sense as the model was for 2015 and the actual population data was from 2019. Because the model was predicting population for 2015, not 2019, this map highlights population growth in the city. The darker areas had a greater increaese in population from the 2015 model to the actual 2019 data than the lighter regions.
 
-# Sumamry
+# Summary
 This model estimated population using land cover and land use data, along with night time lights, slope, and topography. Overall, this model was a strong predictor of population and had an R-squared value of 0.98, meaning the model is a very strong predictor for population in Yucatan. That being said, it is important to note the 'actual' population the model's prediction was compared to was from 2019, while the land use and land cover data was from 2015. I had tried to download and use the mexico 2015 population raster file from worldpop, however it wasn't downloading and said it would take 5 hours to download, so I used the 2019 population raster file instead.
