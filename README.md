@@ -13,7 +13,7 @@ Lydia Troup
 
 [Response to Nieves](https://lydiatroup.github.io/workshop/Nieves) (Mar. 24)
 
-[Response to Strano](https://lydiatroup.github.io/workshop/Strano) (Apr. 01)
+[Response to Strano](https://lydiatroup.github.io/workshop/Strano) (Apr. 08)
 
 ## Workshop
 
