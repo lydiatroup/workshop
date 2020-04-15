@@ -23,3 +23,4 @@ Lydia Troup
 ## Projects
 1. [Project 1: Administrative Units, Population, and Description](https://lydiatroup.github.io/workshop/Project1)
 2. [Project 2: Investigating Land Use and Land Cover](https://lydiatroup.github.io/workshop/Project2)
+3. [Project 3: Accessability to Healthcare through Transportation Facilities](https://lydiatroup.github.io/workshop/Project3)
