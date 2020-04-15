@@ -3,11 +3,13 @@
 shows effectiveness of 3 high res built area datasets for gridden populatio estimates 
 - binary dasymetric redistribution, random forest with dasymetric compondent, hybrid
 
+
 2 main approaches to gridded population estimates
   1) top down: estimates start with census data then disaggregate pop into smaller units
       areal weighing (dist uniformly) -> GPW
   2) bottom up: calculating pop size from ancillary data
   daysemetric refines estimates by distributing pop into weighted ancillary feature class
+  constrains where it gets reallocated to 
 MODEL types
 1) simplle binary daysemetric
     - census counts disaggregated into pixels coincident with built areas defined by given built product
