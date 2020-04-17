@@ -8,3 +8,4 @@ This first plot shows the locations of urban areas in Tizimin, with the density 
 
 ![Access_Healthcare](tizimin_access_healthcare.png)
 This plot shoes the locations of health services (hospitals, doctors, and clinics) as blue points. Primary, secondary, and tertiary level roads are represented as brown lines. Urban areas are represented as points in the same way as in the previous plot; density is color and populations is size.
+
