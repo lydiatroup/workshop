@@ -3,7 +3,7 @@ This project focuses on the ADM2 Tizimin, located in the Yucatan Penninsula Regi
 ![Tizimin_density](subpolys_filtered.png)
 This plot shows the population density across Tizimin, with the lighter colors representing a higher density.
 
-![Urban_areas_with_points](tizimin_urbanareas_points.png)
+![Urban_areas_with_points](tizimin_urbanareas_points2.png)
 This first plot shows the locations of urban areas in Tizimin, with the density of each location represented by the color of the point, and the population of each area represented by the size of the point. Both of these factors are important, as urban areas tend to have both a high density and high population, and there are some areas in Tizimin with a high population or a high denisty that are not considered urban areas. 
 
 ![Access_Healthcare](tizimin_access_healthcare.png)
