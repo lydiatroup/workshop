@@ -1,6 +1,5 @@
 # Project 3: Accessibility to Healthcare through Transportation Networks
 This project focuses on the ADM2 Tizimin, located in the Yucatan Penninsula Region of Mexico.
-
 ![Tizimin_density](subpolys_filtered.png)
 This plot shows the population density across Tizimin, with the lighter colors representing a higher density.
 
