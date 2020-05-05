@@ -1,6 +1,7 @@
 ## Project 4: Further Analysis of Infrastructure and Services
 
 ![Tizimin3d](tizimin3d.png)
+
 Above is a 3D representation of Tizimin, Mexico. To help orient yourself, the southernmost border is the coast of the Gulf of Mexico
 All healthcare facilities in Tizimin are located in urban areas and are connected through major road networks Tizimin City, the largest urban area, has two healthcare facilities, a hospital and a pharmacy.
 
