@@ -10,4 +10,3 @@ This first plot shows the locations of urban areas in Tizimin, with the density 
 ![Access_Healthcare](tizimin_access_healthcare.png)
 This plot shoes the locations of health services (hospitals, doctors, and clinics) as blue points. Primary, secondary, and tertiary level roads are represented as brown lines. Urban areas are represented as points in the same way as in the previous plot; density is color and populations is size.
  Interestingly, you can see there are very few clinics/hospitals/doctors in Tizimin. There are a few located in the city of Tizimin, however there are none located throughout the rest of the municipality. Although there are two just out of the city limits, that are connected via roads to many of the urban areas in Tizimin, meaning those in the northern part of the country likley would leave the municipality to get medical attention.
-
