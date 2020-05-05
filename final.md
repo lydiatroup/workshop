@@ -1,8 +1,11 @@
 Mexico has three administrative levels, ADM0, ADM1, and ADM2. ADM0 is the country's international border, ADM1 consists of States, which are further broken down into municipalities (ADM2s). This project focuses on the ADM1 of Yucatan located in the Yucatan Penninsula in the Gulf of Mexico, and later zooms into the Tizimin and Merida Municipalities, located in Yucatan.
 
-##MAKE A PLOT OF yucatan and adm1 and adm2
-  also adm 0 but only show adm1/2 in yucatan, it'd look kinda cool
- data was downloaded from GADM
+![mex_boundaries](mex.png)
+
+The map above shows Mexico and it's administrative regions. The first administrative region, states, are shown by the thicker green/blue lines. On the northern most part of the penninsula is the Yucatan state, which is focused on in the rest of the region. The fainter blue/purple lines divide the states into municipalities. 
+
+![yuc_border](Yuc_borders.png)
+
  
  
 # Yucatan Population Predictions
